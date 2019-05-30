@@ -1,4 +1,4 @@
-#Claudia Cota 60341850
+
 import math
 
 class Point:
