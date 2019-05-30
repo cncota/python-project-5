@@ -1,4 +1,4 @@
-#Claudia Cota 60341850
+
 
 def create_board(row:int, column: int) -> [[]]:
     '''creates the board with the given number of rows and columns'''
