@@ -1,4 +1,4 @@
-#Claudia Cota 60341850
+
 
 class InvalidMoveError(Exception):
     '''Raised when an invalid move is made'''
