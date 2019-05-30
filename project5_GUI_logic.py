@@ -1,4 +1,4 @@
-#Claudia Cota 60341850
+
 from tkinter import *
 from project5_logic_classes import *
 import project5_create_board
